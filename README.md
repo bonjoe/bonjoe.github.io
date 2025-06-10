@@ -1,6 +1,6 @@
 # Smart Control of Solar-Powered Oil Press
 
-This is the repository that contains source code for the research paper website.
+This is the repository that contains source code for the [RL Oil Press website](https://ziyingsk.github.io/rl_oil_press.github.io/).
 
 If you find this work useful for your research please cite:
 ```
