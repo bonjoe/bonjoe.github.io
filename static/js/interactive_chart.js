@@ -19,7 +19,6 @@ class InteractiveChart {
             <div class="chart-container">
                 <div class="chart-controls">
                     <div class="time-info">
-                        <h3 id="current-time">Performance of the RL Controller</h3>
                         <p id="time-display">Time: 2018-01-01 00:00:00</p>
                     </div>
                     <div class="control-panel">
