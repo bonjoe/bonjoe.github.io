@@ -1,6 +1,6 @@
 # Smart Control of Solar-Powered Oil Press
 
-This is the repository that contains source code for the [RL Oil Press website]([https://bonjoe.github.io/solprint.demo/]).
+This is the repository that contains the source code for the [SolPrInt website](https://bonjoe.github.io/solprint.demo/).
 
 If you find this work useful for your research please cite:
 ```
